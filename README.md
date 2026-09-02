@@ -17,23 +17,6 @@
 
 Hi! My name is Luis, I'm 16 years old and I'm passionate about tech and programming.
 
-<small>Im proficient at</small>
-
-- **PHP**
-- **C**
-- **GD-script**
- 
-<small>I also know a bit of</small>
-
-- **Rust**
-- **CSS**
-- **HTML**
-- **JavaScript**
-- **Java**
-- **Python**
-
----
-
 ### Interests
 
 - Cybersecurity
@@ -44,8 +27,6 @@ Hi! My name is Luis, I'm 16 years old and I'm passionate about tech and programm
 ---
 
 ### Technologies and Tools
-
-
 
 
 **Core**: ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white) 
